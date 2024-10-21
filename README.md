@@ -6,11 +6,12 @@
 </p>
 
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hossein-ab99" alt="Hossein-ab99" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hossein-ab99&column=10&theme=gruvbox&no-frame=true" alt="Hossein-ab99" />
   </a>
-</p>
+</div>
+
 
 ## GitHub Stats
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein-ab99&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossein-ab99) |
