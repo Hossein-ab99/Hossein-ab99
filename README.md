@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hossein-ab99&column=10&theme=gruvbox&no-frame=true" alt="Hossein-ab99" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Hossein-ab99&column=10&theme=tokyonight&no-frame=true" alt="Hossein-ab99" />
   </a>
 </div>
 
