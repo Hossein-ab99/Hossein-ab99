@@ -16,12 +16,6 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossein-ab99&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossein-ab99) |
 | --- | --- |
 
-## Profile Summary
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hossein-ab99&theme=radical" alt="GitHub Profile Summary"/>
-  </a>
-</p>
 
 ## Most Used Languages
 <p align="center">
