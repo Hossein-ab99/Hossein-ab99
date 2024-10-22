@@ -17,10 +17,7 @@
 | --- | --- |
 
 
-## Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossein-ab99&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+
 
 
 
